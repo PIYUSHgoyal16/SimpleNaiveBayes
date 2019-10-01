@@ -27,13 +27,7 @@
    8. Age (years)
    9. Class variable (0 or 1)
 
-8. Missing Attribute Values: Yes
 
-9. Class Distribution: (class value 1 is interpreted as "tested positive for
-   diabetes")
-
-   Class Value  Number of instances
-   0            500
    1            268
 
 10. Brief statistical analysis:
