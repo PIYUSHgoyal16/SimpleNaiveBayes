@@ -1,18 +1,4 @@
 """
-1. Title: Pima Indians Diabetes Database
-
-2. Sources:
-   (a) Original owners: National Institute of Diabetes and Digestive and
-                        Kidney Diseases
-   (b) Donor of database: Vincent Sigillito (vgs@aplcen.apl.jhu.edu)
-                          Research Center, RMI Group Leader
-                          Applied Physics Laboratory
-                          The Johns Hopkins University
-                          Johns Hopkins Road
-                          Laurel, MD 20707
-                          (301) 953-6231
-   (c) Date received: 9 May 1990
-
 3. Past Usage:
     1. Smith,~J.~W., Everhart,~J.~E., Dickson,~W.~C., Knowler,~W.~C., \&
        Johannes,~R.~S. (1988). Using the ADAP learning algorithm to forecast
