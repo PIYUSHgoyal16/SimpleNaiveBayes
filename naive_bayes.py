@@ -2,36 +2,7 @@
 3. Past Usage:
     1. Smith,~J.~W., Everhart,~J.~E., Dickson,~W.~C., Knowler,~W.~C., \&
        Johannes,~R.~S. (1988). Using the ADAP learning algorithm to forecast
-       the onset of diabetes mellitus.  In {\it Proceedings of the Symposium
-       on Computer Applications and Medical Care} (pp. 261--265).  IEEE
-       Computer Society Press.
-
-       The diagnostic, binary-valued variable investigated is whether the
-       patient shows signs of diabetes according to World Health Organization
-       criteria (i.e., if the 2 hour post-load plasma glucose was at least
-       200 mg/dl at any survey  examination or if found during routine medical
-       care).   The population lives near Phoenix, Arizona, USA.
-
-       Results: Their ADAP algorithm makes a real-valued prediction between
-       0 and 1.  This was transformed into a binary decision using a cutoff of
-       0.448.  Using 576 training instances, the sensitivity and specificity
-       of their algorithm was 76% on the remaining 192 instances.
-
-4. Relevant Information:
-      Several constraints were placed on the selection of these instances from
-      a larger database.  In particular, all patients here are females at
-      least 21 years old of Pima Indian heritage.  ADAP is an adaptive learning
-      routine that generates and executes digital analogs of perceptron-like
-      devices.  It is a unique algorithm; see the paper for details.
-   7. Diabetes pedigree function
-   8. Age (years)
-   9. Class variable (0 or 1)
-
-
-   1            268
-
-10. Brief statistical analysis:
-
+       the onset of diabetes mellitus.  In {\it Proceedings of the Symposi
     Attribute number:    Mean:   Standard Deviation:
     1.                     3.8     3.4
     2.                   120.9    32.0
