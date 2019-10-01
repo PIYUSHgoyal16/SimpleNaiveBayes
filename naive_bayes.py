@@ -23,17 +23,6 @@
       least 21 years old of Pima Indian heritage.  ADAP is an adaptive learning
       routine that generates and executes digital analogs of perceptron-like
       devices.  It is a unique algorithm; see the paper for details.
-
-5. Number of Instances: 768
-
-
-7. For Each Attribute: (all numeric-valued)
-   1. Number of times pregnant
-   2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
-   3. Diastolic blood pressure (mm Hg)
-   4. Triceps skin fold thickness (mm)
-   5. 2-Hour serum insulin (mu U/ml)
-   6. Body mass index (weight in kg/(height in m)^2)
    7. Diabetes pedigree function
    8. Age (years)
    9. Class variable (0 or 1)
